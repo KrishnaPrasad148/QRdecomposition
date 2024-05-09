@@ -55,7 +55,7 @@ QR_Decomposition(arr)
 ```
 
 ## Output
-![Screenshot 91827210](https://github.com/KrishnaPrasad148/QRdecomposition/assets/147332763/c280d4ca-63bc-4d59-8390-060b9f284852)
+![Untitled Project (1)](https://github.com/KrishnaPrasad148/QRdecomposition/assets/147332763/b3661ee1-5c19-41ca-9cd4-f25a8fa556de)
 ![Screenshot 2024-05-09 112204](https://github.com/KrishnaPrasad148/QRdecomposition/assets/147332763/a56ca4cd-597e-4b96-aa87-c66920e8357e)
 
 
